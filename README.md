@@ -349,9 +349,7 @@ This `ARTICLE` includes both types of authentication you used in your projects a
 ---
 
 
-
-## Click here to get in touch with me :
-
+## Click here to get in touch with me: 
 <a href="https://github.com/Tech-Hubs" target="_blank"><b>PrabhatDevLab</b></a>, 
 <a href="https://hugs-4-bugs.github.io/myResume/" target="_blank"><b>PrabhatKumar.com</b></a>, 
 <a href="https://www.linkedin.com/in/prabhat-kumar-6963661a4/" target="_blank"><b>LinkedIn</b></a>, 
@@ -365,6 +363,7 @@ This `ARTICLE` includes both types of authentication you used in your projects a
 <a href="https://linktr.ee/_s_4_sharma" target="_blank"><b>About Me</b></a>, 
 <a href="https://www.instagram.com/_s_4_sharma/" target="_blank"><b>Instagram</b></a>, 
 <a href="https://x.com/kattyPrabhat" target="_blank"><b>Twitter</b></a>
+
 
 
 
