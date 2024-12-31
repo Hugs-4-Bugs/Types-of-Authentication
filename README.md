@@ -359,10 +359,7 @@ This `ARTICLE` includes both types of authentication you used in your projects a
 <a href="https://www.hackerrank.com/profile/Prabhat_7250" target="_blank"><b>HackerRank</b></a>, 
 <a href="https://www.geeksforgeeks.org/user/stealthy_prabhat/" target="_blank"><b>GeeksforGeeks</b></a>, 
 <a href="https://hugs-4-bugs.github.io/AlgoByPrabhat/" target="_blank"><b>AlgoByPrabhat</b></a>, 
-<a href="http://hugs-4-bugs.github.io/Sharma-AI/" target="_blank"><b>SHARMA AI</b></a>,  
-<a href="https://linktr.ee/_s_4_sharma" target="_blank"><b>About Me</b></a>, 
-<a href="https://www.instagram.com/_s_4_sharma/" target="_blank"><b>Instagram</b></a>, 
-<a href="https://x.com/kattyPrabhat" target="_blank"><b>Twitter</b></a>
+<a href="http://hugs-4-bugs.github.io/Sharma-AI/" target="_blank"><b>SHARMA AI</b></a>,  <a href="https://linktr.ee/_s_4_sharma" target="_blank"><b>About Me</b></a>, <a href="https://www.instagram.com/_s_4_sharma/" target="_blank"><b>Instagram</b></a>, <a href="https://x.com/kattyPrabhat" target="_blank"><b>Twitter</b></a>
 
 
 
